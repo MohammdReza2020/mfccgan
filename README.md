@@ -8,6 +8,4 @@ Experimental results show that our proposed system outperforms Librosa MFCC-inve
 (by increase about 26% up to 53% in STOI and 16% up to 78% in NISQA score) 
 and an increase about 10%  in intelligibility and about 4% in naturalness 
 in comparison with conventional rule-based vocoder WORLD that is used in the CycleGAN-VC family, 
-while WORLD needs additional data like F0. 
-Finally using perceptual loss in discriminators based on STOI, could improve the quality some more. 
-WebMUSHRA-based subjective tests also shows the quality of the proposed approach.
+while WORLD needs additional data like F0. Finally using perceptual loss in discriminators based on STOI, could improve the quality some more. WebMUSHRA-based subjective tests also shows the quality of the proposed approach.
